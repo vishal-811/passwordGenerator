@@ -1,3 +1,3 @@
 #Password Generator
 
-📌 Live Site URL: : <a https://passwordgenerator-pro.netlify.app/>**Click** 🚀</a>
+📌 Live Site URL: : <ahttps://passwordgenerator-pro.netlify.app/>**Click** 🚀</a>
